@@ -23,7 +23,7 @@ This Product preview card component solution presented here showcases a sleek an
 ### Links
 
 - Solution URL: [https://github.com/itzvikashgupta/product-preview-card-component]
-- Live Site URL: [https://blog-preview-card-soln.netlify.app/]
+- Live Site URL: [https://product-preview-card-soln.netlify.app/]
 
 ## My Process
 
